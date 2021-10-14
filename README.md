@@ -8,7 +8,7 @@
 - 🎵 Me interesa la Producción Musical.
 - 💞 Me gusta la Física.
 
-# Lenguajes de Programación que quisiera aprender:
+# Lenguajes de Programación que quiero aprender:
 
  Go, Java, JavaScript, C++, C#, PHP, SQL, Ruby, R, Kotlin, etc.
 
